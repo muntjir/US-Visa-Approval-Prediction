@@ -5,6 +5,6 @@
 ...bash
 git add .
 
-git commit -m "Updated(any message"
+git commit -m "Updated(any message")
 
 git push origin main
